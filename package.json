@@ -4,7 +4,9 @@
   "description": "Shopping list built with the MERN stack",
   "main": "server.js",
   "engines": {
-    "node": "8.11.4"
+    "node": "8.11.4",
+    "npm": "6.5.0"
+
     
   },
   "scripts": {
